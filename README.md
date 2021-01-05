@@ -1,2 +1,2 @@
 # Windows-application-cafeteria
-The code is present in WindowsFormApplication1 folder for various forms ( Form1.cs,Form2.cs etc ) used in the application.
+This is a billing application for windows operating sytem written in c#. It is used in bits to generate monthly reports for various departments.
